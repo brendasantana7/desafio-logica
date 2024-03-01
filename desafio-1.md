@@ -5,7 +5,7 @@
 - Laços de repetição
 - Estruturas de decição
 
-Crie uma variaável para armazenar o nome e a quantidade de experi~encia (XP) de um herói, depois utilize uma estrutura de decisão para apresentar alguma das mensagens abaixo:
+Crie uma variaável para armazenar o nome e a quantidade de experiência (XP) de um herói, depois utilize uma estrutura de decisão para apresentar alguma das mensagens abaixo:
 
 
 Se XP for menor que 1.000 = Ferro
