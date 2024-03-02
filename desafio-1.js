@@ -1,5 +1,5 @@
 let nomeHeroi = "Minerva000"
-let nivelXP = 
+let nivelXP = 5000
 
 
 let mensagem;
